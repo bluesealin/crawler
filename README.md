@@ -4,6 +4,6 @@
 
 使用方法：
 
-cd t66y
+cd crawler/t66y
 
-scrapy crawl t66y
+scrapy crawl fidy
