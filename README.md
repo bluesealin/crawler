@@ -4,5 +4,6 @@
 
 使用方法：
 
-cd t66y;
-scrapy crawl t66y;
+cd t66y
+
+scrapy crawl t66y
